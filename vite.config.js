@@ -10,7 +10,7 @@ const resolvePort = () => {
 const serverConfig = {
   host: '0.0.0.0',
   port: resolvePort(),
-  strictPort: false,
+  strictPort: true,
   allowedHosts: true,
 }
 
