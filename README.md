@@ -2,6 +2,8 @@
 
 SafeHaven is a support-focused web app built with React and Vite.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/kumar-2120/SAFEHAVEN)
+
 ## Run Locally
 
 1. Install dependencies:
